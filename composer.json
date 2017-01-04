@@ -6,6 +6,8 @@
 		"library",
 		"date",
 		"time",
+		"l10n",
+		"i18n",
 		"convert"
 	],
 	"type": "contao-module",
